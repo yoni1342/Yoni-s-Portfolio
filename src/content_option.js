@@ -84,7 +84,14 @@ const services = [{
     },
 ];
 
-const dataportfolio = [{
+const dataportfolio = [
+    {
+        img: "https://ik.imagekit.io/s3tynwsqe/portfolio/Screenshot%20from%202024-02-18%2023-01-32_10PxQXfTN.png?updatedAt=1708286577329",
+        // desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        tech: ["Nuxt.js", "Tailwind CSS", "Hasura", "Golang"],
+        link: "https://preview.shegergebeta.com/",
+    },
+    {
         img: "https://ik.imagekit.io/s3tynwsqe/portfolio/Screenshot_from_2023-03-20_12-43-11_b8ND_dua-A.png?updatedAt=1679305402398",
         // desctiption: "The wisdom of life consists in the elimination of non-essentials.",
         tech: ["React.js", "Tailwind CSS", "WordPress"],
@@ -115,10 +122,10 @@ const dataportfolio = [{
         link: "https://airbnb-clone-yoni1342.vercel.app/",
     },
     {
-        img: "https://ik.imagekit.io/s3tynwsqe/portfolio/Screenshot_from_2023-03-20_14-44-53_n8YDie2MO.png?updatedAt=1679312723307",
+        img: "https://ik.imagekit.io/s3tynwsqe/portfolio/Screenshot%20from%202024-02-18%2023-16-17_XReNQimIJ.png?updatedAt=1708287403181",
         // desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        tech: ["Angular.js", "Tailwind CSS"],
-        link: "https://e-commerce-with-angular.vercel.app/",
+        tech: ["React ts","Tailwind CSS", "Strapi"],
+        link: "https://hirctf.com/",
     },
 
     {
